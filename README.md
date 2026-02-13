@@ -1,7 +1,8 @@
 # Hi, I'm Brenna ✨
-📖 Junior computer science student at Arizona State University
-👩‍💻 Currently working on becoming a full stack developer
-📊 Interested in data analysis and UI design
+
+🎓 Junior computer science student at Arizona State University  
+💻 Aspiring full stack developer  
+📊 Exploring Data Analysis & UI/UX design  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brenna-coe) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/brennalee16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Brenna.soto21@gmail.com) 
