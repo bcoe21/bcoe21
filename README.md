@@ -21,11 +21,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=bcoe21&hide_border=true" alt="Brenna's GitHub Streak" />
-</p>
-
 ## 🐍 Contribution Snake
 <p align="left">
   <img src="https://raw.githubusercontent.com/bcoe21/bcoe21/output/github-contribution-grid-snake.svg" alt="Brenna's contribution snake" />
