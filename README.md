@@ -1,13 +1,12 @@
 # Hi, I'm Brenna ✨
 
-🎓 Junior Computer Science student at Arizona State University
-📊 Interested in Data Analytics 
+🎓 Junior Computer Science student at Arizona State University <br>
+📊 Interested in Data Analytics <br>
 💻 Building projects at the intersection of code, data, and business insight
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenna-coe/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenna.soto21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenna-coe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brenna.soto21@gmail.com)
 
 ## 🔗 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -22,19 +21,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bcoe21&show_icons=true&theme=default&hide_border=true" alt="Brenna's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcoe21&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
+## 🔥 GitHub Streak
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=bcoe21&hide_border=true" alt="Brenna's GitHub Streak" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bcoe21&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bcoe21&icon=9&color=11)](https://visitcount.itsvg.in)
-
+## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/bcoe21/bcoe21/output/github-contribution-grid-snake.svg" alt="Brenna's contribution snake" />
+</p>
